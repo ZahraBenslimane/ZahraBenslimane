@@ -68,8 +68,8 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## Libraries: 
-<p align="left"> <img src=readme_icons/python-logo.png  alt="Python" width="100" height="40"/> <img src="https://pandas.pydata.org/" alt="Pandas" width="40" height="40"/>
-
+<p align="left"> <img src=readme_icons/python-logo.png  alt="Python" width="120" height="40"/> <img src="readme_icons/c-logo.png" alt="C" width="40" height="40"/>
+<img src="readme_icons/cpp-logo.png" alt="Cpp" width="40" height="40"/>
  
 
 
