@@ -19,7 +19,7 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 
 ***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I am a last year Masters student majoring in [Smart Systems Engineering](https://sciences.sorbonne-universite.fr/formation/offre-de-formation/masters/master-automatique-robotique/parcours-ingenierie-des-systemes) at Sorbonne University, France. 
 ✔ I’m currently Developing a Gutenberg Block Plugin **Html, CSS, React.js,Js & Php language**<br>
 ✔ I’m currently learning about **React**🥰<br>
 ✔ An open source contributor. Please find my free plugin on 
@@ -29,10 +29,6 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 ✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
-
-
-**I’m currently working on**
-- AI 
 
 **My Interest**:
 - Deep Learning
@@ -67,7 +63,7 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Matlab](https://img.shields.io/badge/MATLAB-3776AB?style=for-the-badge&logo=MATLAB&logoColor=red)&nbsp;
+![Matlab](https://img.shields.io/badge/MATLAB-3776AB?style=for-the-badge&logo=matlab&logoColor=red)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
