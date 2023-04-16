@@ -18,9 +18,13 @@
 - research internships and
 
 ### Skills:
+
 ✔ Machine/deep learning
+
 ✔ Computer vision & Image processing
+
 ✔ Audio signals processing
+
 ✔ Electronics and embedded systems
 
 #### Programming Languages, Labraries & Frameworks:
