@@ -1,11 +1,12 @@
 ### Hi there 👋, my name is Zahra BENSLIMANE
 
 ***About me ....***
+
 ✔ I am a last year Masters student majoring in [Smart Systems Engineering](https://sciences.sorbonne-universite.fr/formation/offre-de-formation/masters/master-automatique-robotique/parcours-ingenierie-des-systemes) at Sorbonne University, France. <br>
 ✔ I’m currently working on ...<br>
 ✔ I’m currently learning about **React**🥰<br>
 ✔ Besides work/studiees, I organize volleyball games in the weekends<br>
-✔I am open to any work collobration, machine learning projects(development or research) or job opportinity. Feel free to contact me <a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="readme_icons/gmail-logo.png" height="15" width="20"/></a>
+✔I am open to any work collobration, machine learning projects(development or research) or job opportinity. Feel free to contact me at   <a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="readme_icons/gmail-logo.png" height="15" width="20"/></a>
 
 <p align = "center">
  
