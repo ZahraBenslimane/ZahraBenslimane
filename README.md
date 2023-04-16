@@ -104,9 +104,8 @@ pour le numérique et l'électronique (architectures embarquées, FPGA, micrôco
 
 <p align = "center">
 
-<a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="30" /></a>
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zahra-benslimane-2014631a6/)
+<a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zahra-benslimane-2014631a6/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@zahrahafida.benslimane)
 
    
