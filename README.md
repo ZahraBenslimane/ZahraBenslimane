@@ -68,16 +68,10 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## Libraries: 
-<p align="left"> <img src=readme_icons/python-logo.png width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Pandas" width="40" height="40"/>
+<p align="left"> <img src=readme_icons/python-logo.png  alt="Python" width="100" height="40"/> <img src="https://pandas.pydata.org/" alt="Pandas" width="40" height="40"/>
 
  
- 
-## Data & SQL: 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="SQL" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="MySQL" width="40" height="40"/>
 
-
-## IDE :
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="100" height="30"/> <img src="https://pandas.pydata.org/" alt="Pycharm" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="jupyter" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/800px-Eclipse-Luna-Logo.svg.png" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="Eclipse" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="Vs Code" width="40" height="40"/><img src="https://github.com/Koussailakadi/koussailaKADI/blob/main/Icone/sublime-text.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="Sublime text" width="40" height="40"/>
 
 ## Logiciel: 
 pour le numérique et l'électronique (architectures embarquées, FPGA, micrôcontroleurs, ..) 
