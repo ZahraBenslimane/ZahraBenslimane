@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ZahraBenslimane/ZahraBenslimane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,7 +67,7 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Matlab](https://img.shields.io/badge/MATLAB-3776AB?style=for-the-badge&logo=MATLAB&logoColor=white)&nbsp;
+![Matlab](https://img.shields.io/badge/MATLAB-3776AB?style=for-the-badge&logo=MATLAB&logoColor=red)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
