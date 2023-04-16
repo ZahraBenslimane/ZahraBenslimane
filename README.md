@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Zahra BENSLIMANE
 
 ***About me ....***
-✔ I am a last year Masters student majoring in [Smart Systems Engineering](https://sciences.sorbonne-universite.fr/formation/offre-de-formation/masters/master-automatique-robotique/parcours-ingenierie-des-systemes) at Sorbonne University, France. 
-✔ I’m currently working on ...
+✔ I am a last year Masters student majoring in [Smart Systems Engineering](https://sciences.sorbonne-universite.fr/formation/offre-de-formation/masters/master-automatique-robotique/parcours-ingenierie-des-systemes) at Sorbonne University, France. <br>
+✔ I’m currently working on ...<br>
 ✔ I’m currently learning about **React**🥰<br>
-✔ Besides work/studiees, I organize volleyball games in the weekends
+✔ Besides work/studiees, I organize volleyball games in the weekends<br>
 
 **My Interest**:
 - Deep Learning
@@ -19,13 +19,10 @@
 
 ### Skills:
 
-✔ Machine/deep learning
-
-✔ Computer vision & Image processing
-
-✔ Audio signals processing
-
-✔ Electronics and embedded systems
+✔ Machine/deep learning<br>
+✔ Computer vision & Image processing<br>
+✔ Audio signals processing<br>
+✔ Electronics and embedded systems<br>
 
 #### Programming Languages, Labraries & Frameworks:
 
