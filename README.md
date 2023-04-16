@@ -5,17 +5,20 @@
 ✔ I’m currently working on ...<br>
 ✔ I’m currently learning about **React**🥰<br>
 ✔ Besides work/studiees, I organize volleyball games in the weekends<br>
+✔I am open to any work collobration, machine learning projects(development or research) or job opportinity. Feel free to contact me <a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="readme_icons/gmail-logo.png" height="15" width="20"/></a>
+
+<p align = "center">
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zahra-benslimane-2014631a6/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@zahrahafida.benslimane)
+   
+</p>
 
 **My Interest**:
 - Deep Learning
 - Anomaly Detection
 - Neural Networks compression technics
 - Tiny ML
-
- **I am open to**:
-- Any work collobration ,
-- machine learning projects(development or research),
-- research internships and
 
 ### Skills:
 
@@ -51,14 +54,5 @@ I also have experience in electronics, microcontrollers and FPGA's
 *   Pspice OrCAD
 *   Keil µVsion 
    
-## Connect with me:
 
-<p align = "center">
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zahra-benslimane-2014631a6/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@zahrahafida.benslimane)
-
-<a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="readme_icons/gmail-logo.png" height="15" width="20"/></a>
-   
-</p>
 
