@@ -19,6 +19,20 @@ Here are some ideas to get you started:
 
 I am a last year Masters student majoring in [Smart Systems Engineering](https://sciences.sorbonne-universite.fr/formation/offre-de-formation/masters/master-automatique-robotique/parcours-ingenierie-des-systemes) at Sorbonne University, France. 
 
+***About me ....***
+
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently Developing a Gutenberg Block Plugin **Html, CSS, React.js,Js & Php language**<br>
+✔ I’m currently learning about **React**🥰<br>
+✔ An open source contributor. Please find my free plugin on 
+  **wordpress.org <a href="https://wordpress.org/plugins/attendance-management-for-lifterlms/">Attendance Managment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For LifterLMS</a>**<br>
+✔ A continuous language transaltion contributor 
+  **<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/#content-translations">Translations</a>** <br>
+✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
+✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
+
+
 **I’m currently working on**
 - AI 
 
@@ -92,6 +106,7 @@ pour le numérique et l'électronique (architectures embarquées, FPGA, micrôco
    
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zahra-benslimane-2014631a6/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@zahrahafida.benslimane)
+<a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
    
 </p>
 
