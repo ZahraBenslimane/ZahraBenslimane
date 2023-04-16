@@ -70,15 +70,9 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 #### Hardware : 
-pour le numérique et l'électronique (architectures embarquées, FPGA, micrôcontroleurs, ..) 
-*   Xilinx
-*   Vivado
-*   Simulink 
-*   Modelsim
-*   Pspice 
-*   Keil µVsion
-
-<img src="readme_icons/vhdl-logo.png" width="40" height="40"/> <img src="readme_icons/orcad-logo.png" width="80" height="25"/> <img src="readme_icons/Xilinx-logo.jpg" width="100" height="40"/> 
+I have also worked skills in electronics, microcontrollers and FPGA's
+I have experience with :
+<img src="readme_icons/vhdl-logo.png" width="40" height="40"/> <img src="readme_icons/orcad-logo.png" width="90" height="20"/> <img src="readme_icons/Xilinx-logo.jpg" width="100" height="40"/> 
    
 ## Connect with me:
 
