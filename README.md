@@ -55,6 +55,7 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Matlab](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 
 #### ML/DL
@@ -75,7 +76,6 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="SQL" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="MySQL" width="40" height="40"/>
 
 
-
 ## IDE :
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="Pycharm" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="jupyter" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/800px-Eclipse-Luna-Logo.svg.png" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="Eclipse" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="Vs Code" width="40" height="40"/><img src="https://github.com/Koussailakadi/koussailaKADI/blob/main/Icone/sublime-text.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="Sublime text" width="40" height="40"/>
 
@@ -88,32 +88,7 @@ pour le numérique et l'électronique (architectures embarquées, FPGA, micrôco
 *   Pspice 
 *   Keil µVsion
 
-## Robotique: 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="ROS" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/en/1/13/Gazebo_logo.svg" width="40" height="40"/><img src="https://pandas.pydata.org/" alt="Gazebo" width="40" height="40"/>
-
-
-  
-  
-  
-## Formations en ligne:
-  
-<img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" width="40" height="40"/> <img src="https://pandas.pydata.org/" alt="coursera" width="40" height="40"/>
-  
-  
-  
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koussailakadi&layout=compact&hide=html" alt="chihebnabil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koussailakadi&show_icons=true" alt="koussailaKADI" /></p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/koussaila-kadi-7581671a2/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="koussailaKADI" height="30" width="30" /></a>
-
-</p>
-
-
-
+   
 ## Connect with me:
 
 <p align = "center">
@@ -123,5 +98,3 @@ pour le numérique et l'électronique (architectures embarquées, FPGA, micrôco
 
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
