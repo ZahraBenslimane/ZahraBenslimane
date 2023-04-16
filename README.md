@@ -80,7 +80,7 @@ pour le numérique et l'électronique (architectures embarquées, FPGA, micrôco
 *   Pspice 
 *   Keil µVsion
 
-<img src="readme_icons/vhdl-logo.png" width="40" height="40"/> <img src="readme_icons/Xilinx-logo.jpg" width="150" height="60"/> <img src="readme_icons/orcad-logo.png" width="100" height="40"/>
+<img src="readme_icons/orcad-logo.png" width="100" height="40"/> <img src="readme_icons/Xilinx-logo.jpg" width="150" height="60"/> <img src="readme_icons/vhdl-logo.png" width="40" height="40"/>
    
 ## Connect with me:
 
