@@ -2,11 +2,11 @@
 
 ***About me ....***
 
-✔ I am a last year Masters student majoring in [Smart Systems Engineering](https://sciences.sorbonne-universite.fr/formation/offre-de-formation/masters/master-automatique-robotique/parcours-ingenierie-des-systemes) at Sorbonne University, France. <br>
-✔ I am interested in **Deep Learning**, **Neural Networks compression technics**, **Tiny ML**<br>
-✔ I’m currently working at Renault group on AI based systems for Industry 4.0<br>
-✔ I am open to any work collobration, machine learning projects(development or research) or job opportinity. Feel free to contact me at   <a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="readme_icons/gmail-logo.png" height="15" width="20"/></a>
-✔ Besides all that, I love playing volleyball 🏐 <br>
+👩‍🎓 I am a last year Masters student majoring in [Smart Systems Engineering](https://sciences.sorbonne-universite.fr/formation/offre-de-formation/masters/master-automatique-robotique/parcours-ingenierie-des-systemes) at Sorbonne University, France. <br>
+🧡 I am interested in **Deep Learning**, **Neural Networks compression technics**, **Tiny ML**<br>
+💻 I’m currently working at Renault group on AI based systems for Industry 4.0<br>
+🥰 I am open to any work collobration, machine learning projects(development or research) or job opportinity. Feel free to contact me at   <a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="readme_icons/gmail-logo.png" height="15" width="20"/></a>
+🏐 Besides all that, I love playing volleyball  <br>
 
 <p align = "center">
  
