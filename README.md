@@ -1,34 +1,10 @@
-<!--
-**ZahraBenslimane/ZahraBenslimane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there 👋, my name is Zahra BENSLIMANE
 
-I am a last year Masters student majoring in [Smart Systems Engineering](https://sciences.sorbonne-universite.fr/formation/offre-de-formation/masters/master-automatique-robotique/parcours-ingenierie-des-systemes) at Sorbonne University, France. 
-
 ***About me ....***
-
 ✔ I am a last year Masters student majoring in [Smart Systems Engineering](https://sciences.sorbonne-universite.fr/formation/offre-de-formation/masters/master-automatique-robotique/parcours-ingenierie-des-systemes) at Sorbonne University, France. 
-✔ I’m currently Developing a Gutenberg Block Plugin **Html, CSS, React.js,Js & Php language**<br>
+✔ I’m currently working on ...
 ✔ I’m currently learning about **React**🥰<br>
-✔ An open source contributor. Please find my free plugin on 
-  **wordpress.org <a href="https://wordpress.org/plugins/attendance-management-for-lifterlms/">Attendance Managment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For LifterLMS</a>**<br>
-✔ A continuous language transaltion contributor 
-  **<a href="https://profiles.wordpress.org/muhammadfaizanhaidar/#content-translations">Translations</a>** <br>
-✔ I’m looking to collaborate with any **Open - WordPress Plugins Projects**<br>
-✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
+✔ Besides work/studiees, I organize volleyball games in the weekends
 
 **My Interest**:
 - Deep Learning
@@ -36,19 +12,16 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 - Neural Networks compression technics
 - Tiny ML
 
-
  **I am open to**:
-
 - Any work collobration ,
 - machine learning projects(development or research),
 - research internships and
 
-## Skills:
-
-- Machine/deep learning
-- Computer vision & Image processing
-- Audio signals processing
-- Electronics and embedded systems
+### Skills:
+✔ Machine/deep learning
+✔ Computer vision & Image processing
+✔ Audio signals processing
+✔ Electronics and embedded systems
 
 #### Programming Languages, Labraries & Frameworks:
 
@@ -70,9 +43,12 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 #### Hardware : 
-I have also worked skills in electronics, microcontrollers and FPGA's
-I have experience with :
-<img src="readme_icons/vhdl-logo.png" width="40" height="40"/> <img src="readme_icons/orcad-logo.png" width="90" height="20"/> <img src="readme_icons/Xilinx-logo.jpg" width="100" height="40"/> 
+I also have experience in electronics, microcontrollers and FPGA's
+*   VHDL Hardware Description Language
+*   Xilinx Vivado 
+*   Simulink 
+*   Pspice OrCAD
+*   Keil µVsion 
    
 ## Connect with me:
 
