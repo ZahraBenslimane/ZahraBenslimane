@@ -6,7 +6,7 @@
 🧡 I am interested in **Deep Learning**, **Neural Networks compression technics**, **Tiny ML**<br>
 💻 I’m currently working at Renault group on AI based systems for Industry 4.0<br>
 🏐 I love playing volleyball in my free time <br>
-🥰 I am open to any work collobration, machine learning projects, job opportinity or volley game. Feel free to contact me at   <a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="readme_icons/gmail-logo.png" height="15" width="20"/></a>
+🥰 I am open to any work collobration, machine learning projects, job opportinity or volleyball game. Feel free to contact me at   <a href = "mailto: zahrahafida.benslimane@gmail.com"><img align="center" src="readme_icons/gmail-logo.png" height="15" width="20"/></a>
 
 
 <p align = "center">
