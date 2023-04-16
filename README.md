@@ -36,12 +36,6 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 - Neural Networks compression technics
 - Tiny ML
 
-**My skills**:
-- Machine/deep learning
-- Computer vision & Image processing
-- Audio signals processing
-- Electronics and embedded systems
-
 
  **I am open to**:
 
@@ -51,7 +45,12 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 
 ## Skills:
 
-#### Languages:
+- Machine/deep learning
+- Computer vision & Image processing
+- Audio signals processing
+- Electronics and embedded systems
+
+#### Programming Languages, Labraries & Frameworks:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Matlab](https://img.shields.io/badge/MATLAB-3776AB?style=for-the-badge&logo=matlab&logoColor=red)&nbsp;
@@ -70,8 +69,7 @@ I am a last year Masters student majoring in [Smart Systems Engineering](https:/
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-
-## Logiciel: 
+#### Hardware : 
 pour le numérique et l'électronique (architectures embarquées, FPGA, micrôcontroleurs, ..) 
 *   Xilinx
 *   Vivado
